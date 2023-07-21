@@ -1,4 +1,4 @@
 # kevincnguyen.github.io
 
-## :rocket: About
-An interactive personal resume website [Last updated 9/2022]
+## About
+An interactive personal resume website built with HTML and CSS [Last updated 9/2022]
